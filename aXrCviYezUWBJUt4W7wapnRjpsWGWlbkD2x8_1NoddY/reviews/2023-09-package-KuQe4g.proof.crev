@@ -40,3 +40,31 @@ comment: |-
 ml5edDJKmddgHbu-cCKLEFisyQXQHlkc6nUPsTk-M6ix0VVI0IpleIFwgovpBmRMrW7LadQMcXu6irUc7Rc6Cw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-09-20T22:37:47.043794036-07:00
+from:
+  id-type: crev
+  id: aXrCviYezUWBJUt4W7wapnRjpsWGWlbkD2x8_1NoddY
+  url: https://github.com/chordtoll/crev-proofs
+package:
+  source: https://crates.io
+  name: maplit
+  version: 0.1.1
+  digest: Yujtsi6mV2-qgO05w5EZHcJ3zHQROeq0sxTi17nCPwk
+package-diff-base:
+  source: https://crates.io
+  name: maplit
+  version: 0.1.0
+  digest: XaQ5rTDdEr1sZUIHuXQQQB0ivAwLbOdBUwRK8hqAv0o
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  Compared to 0.1.0, this version updates documentation and makes non-functionality-changing updates.
+----- SIGN CREV PROOF -----
+GtYnMmlG0PTwzr4Qayw1vQSvbxlcP3snueHC25Z2UIHxkGYh4gu1b3Q5HaNB42TMe6-VsGrAyE6IgtvdugjGBg
+----- END CREV PROOF -----
+
