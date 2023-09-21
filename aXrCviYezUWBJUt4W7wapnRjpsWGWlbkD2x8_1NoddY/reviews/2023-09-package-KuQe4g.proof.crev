@@ -16,3 +16,27 @@ package:
 ieNSZVPwBjZUN5_4aj0IiDztAknu00TvqlTcZGyRsOjziQ_CkKjesPP5-kdJRj4nQxTZZEmm4nrF1uPQrZ7LDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-09-20T21:41:35.804509532-07:00
+from:
+  id-type: crev
+  id: aXrCviYezUWBJUt4W7wapnRjpsWGWlbkD2x8_1NoddY
+  url: https://github.com/chordtoll/crev-proofs
+package:
+  source: https://crates.io
+  name: maplit
+  version: 0.1.0
+  digest: XaQ5rTDdEr1sZUIHuXQQQB0ivAwLbOdBUwRK8hqAv0o
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: strong
+comment: |-
+  This crate contains only a small number of macros, and their implementation is pretty close to obvious.
+  The code is fairly well tested.
+----- SIGN CREV PROOF -----
+ml5edDJKmddgHbu-cCKLEFisyQXQHlkc6nUPsTk-M6ix0VVI0IpleIFwgovpBmRMrW7LadQMcXu6irUc7Rc6Cw
+----- END CREV PROOF -----
+
