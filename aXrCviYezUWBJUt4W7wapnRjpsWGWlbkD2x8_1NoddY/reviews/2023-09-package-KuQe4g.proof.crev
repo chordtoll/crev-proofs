@@ -1,0 +1,18 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-09-20T21:30:16.200152488-07:00
+from:
+  id-type: crev
+  id: aXrCviYezUWBJUt4W7wapnRjpsWGWlbkD2x8_1NoddY
+  url: https://github.com/chordtoll/crev-proofs
+package:
+  source: https://crates.io
+  name: maplit
+  version: 1.0.2
+  revision: 04936f703da907bc4ffdaced121e4cfd5ecbaec6
+  digest: 1db2lgOARGPHX_YwsVZB6kVOsVQ1eYQPEQSYVWF5LDI
+----- SIGN CREV PROOF -----
+ieNSZVPwBjZUN5_4aj0IiDztAknu00TvqlTcZGyRsOjziQ_CkKjesPP5-kdJRj4nQxTZZEmm4nrF1uPQrZ7LDQ
+----- END CREV PROOF -----
+
